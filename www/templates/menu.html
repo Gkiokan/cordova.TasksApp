@@ -1,0 +1,97 @@
+<ion-side-menus enable-menu-with-back-views="false">
+  <ion-side-menu-content>
+    <ion-nav-bar class="bar bar-header bar-dark">
+      <ion-nav-back-button>
+      </ion-nav-back-button>
+
+      <ion-nav-buttons side="left">
+        <button class="button button-icon button-clear ion-navicon" menu-toggle="left">
+        </button>
+      </ion-nav-buttons>
+    </ion-nav-bar>
+    <ion-nav-view name="menuContent"></ion-nav-view>
+  </ion-side-menu-content>
+
+  <ion-side-menu side="left">
+    <ion-header-bar class="bar bar-dark">
+      <h1 class="title">Profile User</h1>
+    </ion-header-bar>
+    <ion-content padding=false>
+      
+      <div class='profile_wrapper row'>
+        <div class='profile_image col col-33'>
+          <img src='http://www.gravatar.com/avatar/191bbae71fc8ce2eabb5cda1143757e6.jpg?s=80'>                 
+        </div>
+        <div class='profile_info col'>
+          Your Name: Test User<br>
+          Your Status: Online<br>
+          </div>
+      </div>
+      
+      <hr>
+      
+      <div class='menu_items list bar-dark '>
+       
+            <a href='#' class='item icon-left ion-star button-block button button-clear'>                          
+              Neuigkeiten
+            </a>
+            
+            <a href='#' class='item'>             
+              <span class="badge badge-assertive">0</span>
+              Neue Nachricht
+            </a>
+            
+            <a class='item item-divider button button-clear'></a>            
+            <a href='#' class='item icon-left ion-star button-block button button-clear'>                          
+              Nachrichten
+            </a>
+            
+            <a href='#' class='item'>             
+              <span class="badge badge-assertive">5</span>
+              Firma A
+            </a>
+            <a href='#' class='item'>Firma B</a>
+            <a href='#' class='item'>Firma B</a>
+            <a href='#' class='item'>Firma B</a>
+            
+            <a class='item item-divider button button-clear'></a>
+            <a href='#' class='item icon-left ion-star button-block button button-clear'>                          
+              Jobs
+            </a>
+
+            <a href='#' class='item'>Firma B</a>
+            <a href='#' class='item'>Firma B</a>
+            <a href='#' class='item'>Firma B</a>
+                        
+            
+            
+             <a class="item item-icon-left" href="#">
+              <i class="icon ion-person-stalker"></i>
+              Friends              
+            </a>
+                     
+      </div>
+      
+      
+      
+      <a class='item item-divider button button-clear'></a>
+      <a href='#' class='item icon-left ion-star button-block button button-clear'>                          
+        Regular Links
+      </a>
+      <ion-list class='bar-dark'>
+        <ion-item menu-close ng-click="login()">
+          Login
+        </ion-item>
+        <ion-item menu-close href="#/app/search">
+          Search
+        </ion-item>
+        <ion-item menu-close href="#/app/browse">
+          Browse
+        </ion-item>
+        <ion-item menu-close href="#/app/playlists">
+          Playlists
+        </ion-item>
+      </ion-list>
+    </ion-content>
+  </ion-side-menu>
+</ion-side-menus>
