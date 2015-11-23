@@ -1,0 +1,32 @@
+﻿/* Empty. Add your own CSS if you like */
+
+
+body, .pane, .menu { background-color: #222; color:#fff; }
+h1,h2,h3,h4,h5,h6 { color:#fff; }
+
+.transparent-stuff { background-color:transparent; }
+.transparent-stuff .icon { font-size:50px; }
+
+
+.item-complex .item-content, .item{
+    background-color: #222; color:#fff;
+	border-color:#111;
+}
+
+.menu_items .item { text-align:left; }
+
+.profile_image { width:90px; }
+.profile_info {  }
+
+.job_title { }
+
+.job_title .job_info_left {  }
+.job_title .job_info_right { text-align:right; }
+
+.job_title .job_name h1 { font-size:20px; }
+.job_title .job_firma  h3 { font-size:16px; } 
+
+
+.job_content_wrapper { padding:0px 20px; }
+
+.job_content { padding:0px 5px; }

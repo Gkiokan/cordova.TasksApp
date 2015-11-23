@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="com.ionicframework.taskapp386606" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="config.xml" uri="ms-resource://com.ionicframework.taskapp386606/Files/config.xml">
+				<Candidate type="Path">
+					<Value>config.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="SplashScreen.png" uri="ms-resource://com.ionicframework.taskapp386606/Files/images/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://com.ionicframework.taskapp386606/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square30x30Logo.png" uri="ms-resource://com.ionicframework.taskapp386606/Files/images/Square30x30Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square30x30Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://com.ionicframework.taskapp386606/Files/images/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square310x310Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://com.ionicframework.taskapp386606/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://com.ionicframework.taskapp386606/Files/images/Square70x70Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square70x70Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://com.ionicframework.taskapp386606/Files/images/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square71x71Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://com.ionicframework.taskapp386606/Files/images/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://com.ionicframework.taskapp386606/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="www">
+				<NamedResource name="cordova.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/cordova.js">
+					<Candidate type="Path">
+						<Value>www\cordova.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cordova_plugins.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/cordova_plugins.js">
+					<Candidate type="Path">
+						<Value>www\cordova_plugins.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="index.html" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/index.html">
+					<Candidate type="Path">
+						<Value>www\index.html</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="cordova-js-src">
+					<NamedResource name="exec.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/cordova-js-src/exec.js">
+						<Candidate type="Path">
+							<Value>www\cordova-js-src\exec.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="platform.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/cordova-js-src/platform.js">
+						<Candidate type="Path">
+							<Value>www\cordova-js-src\platform.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="css">
+					<NamedResource name="style.css" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/css/style.css">
+						<Candidate type="Path">
+							<Value>www\css\style.css</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="img">
+					<NamedResource name="ionic.png" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/img/ionic.png">
+						<Candidate type="Path">
+							<Value>www\img\ionic.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="js">
+					<NamedResource name="app.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/js/app.js">
+						<Candidate type="Path">
+							<Value>www\js\app.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="controllers.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/js/controllers.js">
+						<Candidate type="Path">
+							<Value>www\js\controllers.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="lib">
+					<ResourceMapSubtree name="ionic">
+						<NamedResource name="version.json" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/version.json">
+							<Candidate type="Path">
+								<Value>www\lib\ionic\version.json</Value>
+							</Candidate>
+						</NamedResource>
+						<ResourceMapSubtree name="css">
+							<NamedResource name="ionic.css" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/css/ionic.css">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\css\ionic.css</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ionic.min.css" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/css/ionic.min.css">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\css\ionic.min.css</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="fonts">
+							<NamedResource name="ionicons.eot" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/fonts/ionicons.eot">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\fonts\ionicons.eot</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ionicons.svg" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/fonts/ionicons.svg">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\fonts\ionicons.svg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ionicons.ttf" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/fonts/ionicons.ttf">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\fonts\ionicons.ttf</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ionicons.woff" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/fonts/ionicons.woff">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\fonts\ionicons.woff</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="js">
+							<NamedResource name="ionic-angular.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/js/ionic-angular.js">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\js\ionic-angular.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ionic-angular.min.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/js/ionic-angular.min.js">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\js\ionic-angular.min.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ionic.bundle.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/js/ionic.bundle.js">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\js\ionic.bundle.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ionic.bundle.min.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/js/ionic.bundle.min.js">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\js\ionic.bundle.min.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ionic.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/js/ionic.js">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\js\ionic.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ionic.min.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/js/ionic.min.js">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\js\ionic.min.js</Value>
+								</Candidate>
+							</NamedResource>
+							<ResourceMapSubtree name="angular">
+								<NamedResource name="angular-animate.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/js/angular/angular-animate.js">
+									<Candidate type="Path">
+										<Value>www\lib\ionic\js\angular\angular-animate.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="angular-animate.min.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/js/angular/angular-animate.min.js">
+									<Candidate type="Path">
+										<Value>www\lib\ionic\js\angular\angular-animate.min.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="angular-resource.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/js/angular/angular-resource.js">
+									<Candidate type="Path">
+										<Value>www\lib\ionic\js\angular\angular-resource.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="angular-resource.min.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/js/angular/angular-resource.min.js">
+									<Candidate type="Path">
+										<Value>www\lib\ionic\js\angular\angular-resource.min.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="angular-sanitize.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/js/angular/angular-sanitize.js">
+									<Candidate type="Path">
+										<Value>www\lib\ionic\js\angular\angular-sanitize.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="angular-sanitize.min.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/js/angular/angular-sanitize.min.js">
+									<Candidate type="Path">
+										<Value>www\lib\ionic\js\angular\angular-sanitize.min.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="angular.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/js/angular/angular.js">
+									<Candidate type="Path">
+										<Value>www\lib\ionic\js\angular\angular.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="angular.min.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/js/angular/angular.min.js">
+									<Candidate type="Path">
+										<Value>www\lib\ionic\js\angular\angular.min.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+							<ResourceMapSubtree name="angular-ui">
+								<NamedResource name="angular-ui-router.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/js/angular-ui/angular-ui-router.js">
+									<Candidate type="Path">
+										<Value>www\lib\ionic\js\angular-ui\angular-ui-router.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="angular-ui-router.min.js" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/js/angular-ui/angular-ui-router.min.js">
+									<Candidate type="Path">
+										<Value>www\lib\ionic\js\angular-ui\angular-ui-router.min.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="scss">
+							<NamedResource name="ionic.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/ionic.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\ionic.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_action-sheet.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_action-sheet.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_action-sheet.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_animations.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_animations.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_animations.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_backdrop.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_backdrop.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_backdrop.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_badge.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_badge.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_badge.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_bar.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_bar.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_bar.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_button-bar.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_button-bar.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_button-bar.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_button.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_button.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_button.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_checkbox.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_checkbox.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_checkbox.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_form.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_form.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_form.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_grid.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_grid.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_grid.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_items.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_items.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_items.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_list.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_list.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_list.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_loading.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_loading.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_loading.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_menu.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_menu.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_menu.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_mixins.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_mixins.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_mixins.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_modal.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_modal.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_modal.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_platform.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_platform.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_platform.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_popover.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_popover.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_popover.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_popup.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_popup.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_popup.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_progress.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_progress.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_progress.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_radio.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_radio.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_radio.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_range.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_range.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_range.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_refresher.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_refresher.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_refresher.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_reset.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_reset.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_reset.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_scaffolding.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_scaffolding.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_scaffolding.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_select.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_select.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_select.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_slide-box.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_slide-box.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_slide-box.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_spinner.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_spinner.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_spinner.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_tabs.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_tabs.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_tabs.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_toggle.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_toggle.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_toggle.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_transitions.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_transitions.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_transitions.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_type.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_type.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_type.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_util.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_util.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_util.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_variables.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/_variables.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_variables.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<ResourceMapSubtree name="ionicons">
+								<NamedResource name="ionicons.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/ionicons/ionicons.scss">
+									<Candidate type="Path">
+										<Value>www\lib\ionic\scss\ionicons\ionicons.scss</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="_ionicons-font.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/ionicons/_ionicons-font.scss">
+									<Candidate type="Path">
+										<Value>www\lib\ionic\scss\ionicons\_ionicons-font.scss</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="_ionicons-icons.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/ionicons/_ionicons-icons.scss">
+									<Candidate type="Path">
+										<Value>www\lib\ionic\scss\ionicons\_ionicons-icons.scss</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="_ionicons-variables.scss" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/lib/ionic/scss/ionicons/_ionicons-variables.scss">
+									<Candidate type="Path">
+										<Value>www\lib\ionic\scss\ionicons\_ionicons-variables.scss</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="templates">
+					<NamedResource name="browse.html" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/templates/browse.html">
+						<Candidate type="Path">
+							<Value>www\templates\browse.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="login.html" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/templates/login.html">
+						<Candidate type="Path">
+							<Value>www\templates\login.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="menu.html" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/templates/menu.html">
+						<Candidate type="Path">
+							<Value>www\templates\menu.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="playlist.html" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/templates/playlist.html">
+						<Candidate type="Path">
+							<Value>www\templates\playlist.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="playlists.html" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/templates/playlists.html">
+						<Candidate type="Path">
+							<Value>www\templates\playlists.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="search.html" uri="ms-resource://com.ionicframework.taskapp386606/Files/www/templates/search.html">
+						<Candidate type="Path">
+							<Value>www\templates\search.html</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

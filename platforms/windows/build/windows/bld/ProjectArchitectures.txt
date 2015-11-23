@@ -1,0 +1,1 @@
+s:\_svr\_cordova\cordova.TasksApp\platforms\windows\CordovaApp.Windows.jsproj;neutral

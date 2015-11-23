@@ -1,0 +1,17 @@
+s:\_svr\_cordova\cordova.TasksApp\platforms\windows\build\windows\debug\anycpu\resources.pri
+s:\_svr\_cordova\cordova.TasksApp\platforms\windows\build\windows\debug\anycpu\AppxManifest.xml
+s:\_svr\_cordova\cordova.TasksApp\platforms\windows\build\windows\debug\anycpu\CordovaApp.Windows.build.appxrecipe
+s:\_svr\_cordova\cordova.TasksApp\platforms\windows\build\windows\bld\priconfig.xml
+s:\_svr\_cordova\cordova.TasksApp\platforms\windows\build\windows\bld\priconfig.xml.intermediate
+s:\_svr\_cordova\cordova.TasksApp\platforms\windows\build\windows\bld\layout.resfiles
+s:\_svr\_cordova\cordova.TasksApp\platforms\windows\build\windows\bld\layout.resfiles.intermediate
+s:\_svr\_cordova\cordova.TasksApp\platforms\windows\build\windows\bld\resources.resfiles
+s:\_svr\_cordova\cordova.TasksApp\platforms\windows\build\windows\bld\resources.resfiles.intermediate
+s:\_svr\_cordova\cordova.TasksApp\platforms\windows\build\windows\bld\pri.resfiles
+s:\_svr\_cordova\cordova.TasksApp\platforms\windows\build\windows\bld\pri.resfiles.intermediate
+s:\_svr\_cordova\cordova.TasksApp\platforms\windows\build\windows\bld\qualifiers.txt
+s:\_svr\_cordova\cordova.TasksApp\platforms\windows\build\windows\bld\qualifiers.txt.intermediate
+s:\_svr\_cordova\cordova.TasksApp\platforms\windows\build\windows\bld\MultipleQualifiersPerDimensionFound.txt
+s:\_svr\_cordova\cordova.TasksApp\platforms\windows\build\windows\bld\resources.pri.xml
+s:\_svr\_cordova\cordova.TasksApp\platforms\windows\build\windows\bld\ProjectArchitectures.txt
+s:\_svr\_cordova\cordova.TasksApp\platforms\windows\build\windows\bld\package.map.txt
